@@ -1,0 +1,5 @@
+comparison document="{api and operator comparison}"
+
+javascript reference document="{javascript reference document}"
+
+Task: You are an experienced python and JavaScript developer. Based on the actual information provided in the javascript reference document, please list the logical and behavioral inconsistencies between the python language and the JavaScript language for the APIs and operators mentioned in the comparison document. Please be as brief as possible. If not, please do not list them.

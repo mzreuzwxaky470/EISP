@@ -1,0 +1,13 @@
+python code="{python code flag}"
+
+javascript code="{javascript code flag}"
+reference document="Global Replacement Behavior:
+
+In JavaScript, String.prototype.replace() replaces only the first occurrence of a pattern by default, whereas in Python, str.replace() replaces all occurrences by default.
+Handling of Regular Expressions:
+
+JavaScript supports more advanced regex functionalities, such as capturing groups, directly within String.prototype.replace(), while Python requires the use of the re module for such operations.
+Empty Pattern Replacement:
+
+JavaScript prepends the replacement to the start of the string when the pattern is an empty string, whereas Python's behavior in this scenario is not explicitly defined."
+Task: You are an experienced Python and JavaScript developer, please determine if the logic of the JavaScript code and Python code are not equal in some detail based on the above reference document! Please note that there is no need to correct code that is logically different! Let's think step-by-step.

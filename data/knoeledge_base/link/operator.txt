@@ -1,0 +1,6 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder_assignment
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_NOT
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division_assignment

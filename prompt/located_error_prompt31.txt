@@ -1,0 +1,3 @@
+reference document="{reference document flag}"
+Task: You are a senior python and JavaScript developer, based on the above information, please list the logical and behavioral inconsistencies in python and JavaScript when using the corresponding api and operators above and keep it as short as possible. If not, don't list them.
+

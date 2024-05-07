@@ -1,0 +1,7 @@
+**python code="
+{source_code_flag}
+"
+**javascript code="
+{target_code_flag}
+"
+**task:You are a senior developer proficient in python and JavaScript. Please compare and analyse the two pieces of code above to determine whether the JavaScript code correctly translates the intent of the Python code.If the translation is correct, answer "Yes" to indicate that the two pieces of code are identical. If there are errors in the translation, answer "No" and point out all the incorrect lines of code in the JavaScript code along with the corresponding explanations. Let's think step by step. 

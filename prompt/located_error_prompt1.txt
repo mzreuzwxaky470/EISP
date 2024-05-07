@@ -1,0 +1,3 @@
+python code="{python code flag}"
+javascript code="{javascript code flag}"
+task:What operator and api methods are used in the provided Python and JavaScript code snippets?And please list the fully qualified names of the methods.

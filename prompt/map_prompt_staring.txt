@@ -1,0 +1,59 @@
+### Python
+def f_gold(s):
+    i = 0
+    while s[i] == ' ':
+        i += 1
+        if i == n: return 0
+    sign = -1 if s[i] == '-' else 1
+    if s[i] in ['-', '+']:
+        i += 1
+
+### JavaScript
+"use strict";
+function f_gold(s) {
+    var i = 0;
+    while (s[i] == ' ') {
+        i++;
+        if (i == n) return 0;
+    }
+    var sign = -1;
+    if (s[i] == '-') sign = -1;
+    else sign = 1;
+    if (s[i] == '-' || s[i] == '+') i++;
+}
+##### Task: You are a proficient python and JavaScript advanced developer. The above JavaScript code is translated from python code, please match the above translation sentence by sentence.
+output:
+
+### Python
+def f_gold(s): # --- py stmt 1
+    i = 0   # --- py stmt 2
+    while s[i] == ' ': # --- py stmt 3
+        i += 1  # --- py stmt 4
+        if i == n: return 0    # --- py stmt 5
+    sign = -1 if s[i] == '-' else 1 # --- py stmt 6
+    if s[i] in ['-', '+']:  # --- py stmt 7
+        i += 1  # --- py stmt 8
+
+### JavaScript
+"use strict";
+function f_gold(s) {   // --- py stmt 1
+    var i = 0;  // --- py stmt 2
+    while (s[i] == ' ') {   // --- py stmt 3
+        i++;    // --- py stmt 4
+        if (i == n) return 0;   // --- py stmt 5
+    }
+    var sign = -1;  // --- py stmt 6
+    if (s[i] == '-') sign = -1;    // --- py stmt 6  
+    else sign = 1;  // --- py stmt 6
+    if (s[i] == '-' || s[i] == '+') i++;    // --- py stmt 7, py stmt 8
+}
+-----------------------------------------------
+### Python
+{pycode flag}
+
+### JavaScript
+"use strict";
+{jscode flag}
+
+##### Task: You are a proficient python and JavaScript advanced developer. The above JavaScript code is translated from python code, please match the above translation sentence by sentence, following the format of the above sample. 
+output:

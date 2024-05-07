@@ -1,0 +1,4 @@
+reference document="{reference document flag}"
+
+Task: You are an experienced Python and JavaScript developer, please re-determine if the logic of the JavaScript code and Python code are not equal in some detail based on the above reference document! Please note that there is no need to correct code that is logically different! Let's re-think step-by-step.
+

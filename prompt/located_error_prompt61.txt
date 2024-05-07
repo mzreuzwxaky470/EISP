@@ -1,0 +1,5 @@
+reference document="{reference document flag}"
+python code="{python code flag}"
+javascript code="{javascript code flag}"
+Task: Based on the above information, if the translation from python to JavaScript is correct, answer "Yes" to indicate that the two pieces of code are identical. If there are errors in the translation, answer "No" and point out all the incorrect parts of the JavaScript code, with each error formatted as "Incorrect line of code: incorrect explanation".
+

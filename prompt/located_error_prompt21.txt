@@ -1,0 +1,5 @@
+similar APIs and operators="{similar APIs and operators}"
+"
+javascript reference document="{javascript reference document}"
+
+Task: You are an experienced python and JavaScript developer, compare the logic and behavioral differences between similar APIs and operators in JavaScript and Python, based on the JavaScript reference document above. Let's take this step-by-step analysis and focus on the differences in logic and usage that may exist between the two languages when implementing similar functionality.Please be as brief as possible.

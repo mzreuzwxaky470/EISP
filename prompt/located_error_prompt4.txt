@@ -1,0 +1,5 @@
+python code="{python code flag}"
+
+javascript code="{javascript code flag}"
+
+task:You are an experienced python and JavaScript developer, please compare and analyze the logic of the above two pieces of code  and determine whether the logic of the JavaScript code and the Python code is completely equivalent. Let's think step-by-step.  Please note that there is no need to correct code that is logically different!

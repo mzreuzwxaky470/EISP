@@ -1,0 +1,11 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isFinite
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURI
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/escape
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/unescape
